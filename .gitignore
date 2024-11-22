@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+/venv
+/models/faiss_index.faiss
+/data/documents/
+.env
